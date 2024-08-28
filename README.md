@@ -1,5 +1,4 @@
-// SPDX-License-Identifier: MIT
-pragma solidity ^0.8.0;
+
 
 contract ScholarshipFund {
     // Variables
@@ -106,3 +105,6 @@ contract ScholarshipFund {
         require(success, "Withdrawal failed");
     }
 }
+deployed:
+contract address:0xd9145CCE52D386f254917e481eB44e9943F39138
+![image](https://github.com/user-attachments/assets/6c2df9f2-3c58-4fae-95e5-5b2c93af962c)
